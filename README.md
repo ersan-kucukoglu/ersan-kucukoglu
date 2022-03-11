@@ -1,8 +1,10 @@
 # Hi there, I'm Ersan 👋
-
+I'm currently studying MS in Business Analytics at [CEU](https://economics.ceu.edu/program/master-science-business-analytics). You may view my profile and contact me on LinkedIn -[ersankucukoglu](https://www.linkedin.com/in/ersankucukoglu/). My projects can be seen in my portfolio. My posts; 
+- [Sentiment Analysis of Tweets on COVID-19 Vaccination: Using AWS Comprehended in R](https://medium.com/@ersan.kucukoglu41/sentiment-analysis-of-tweets-on-covid-19-vaccination-using-aws-comprehended-in-r-b708fcbda4e6) on my [medium](https://medium.com/@ersan.kucukoglu41) profile and 
+- [Spotify Songs Analysis](https://rpubs.com/ersan_kucukoglu/spotify_songs) on my [RPubs](https://rpubs.com/ersan_kucukoglu) profile.
 ### Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersankucukoglu/)
 
 ### Languages & Tools
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
