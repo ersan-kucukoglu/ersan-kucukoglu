@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Ersan Kucukoglu
+### Hi there, I'm Ersan 👋
+
 
 <!--
 **ersan-kucukoglu/ersan-kucukoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
