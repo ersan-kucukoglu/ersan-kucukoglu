@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Ersan, a passionate Data Analyst.You may view my profile and contact me on LinkedIn - [ersankucukoglu](https://www.linkedin.com/in/ersankucukoglu/). 
-My projects can be seen in my [Data Science Portfolio](https://github.com/ersan-kucukoglu/Data_Science-Portfolio/blob/main/README.md). 
+My projects can be seen in my [Data Science Portfolio](https://ersan-kucukoglu.github.io/ErsanKucukoglu.github.io/). 
 My posts; 
 - [Text Analysis and Sentiment Analysis of Turkish Tweets on the Roma Community Using R](https://medium.com/@ersan.kucukoglu41/text-analysis-and-sentiment-analysis-of-turkish-tweets-on-the-roma-community-using-r-9aef6f27189a)
 - [Sentiment Analysis of Tweets on COVID-19 Vaccination: Using AWS Comprehended in R](https://medium.com/@ersan.kucukoglu41/sentiment-analysis-of-tweets-on-covid-19-vaccination-using-aws-comprehended-in-r-b708fcbda4e6) on my [medium](https://medium.com/@ersan.kucukoglu41) profile and 
