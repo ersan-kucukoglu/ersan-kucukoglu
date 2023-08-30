@@ -24,8 +24,6 @@ My posts;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ersan-kucukoglu&show_icons=true&theme=merko" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersan-kucukoglu&layout=compact" />
 
 
 
