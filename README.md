@@ -3,7 +3,6 @@
 I'm Ersan, an enthusiastic Data Analyst with a deep passion for uncovering insights from data. Feel free to connect with me and explore my professional journey on LinkedIn: [ersankucukoglu](https://www.linkedin.com/in/ersankucukoglu/). To delve into the world of my data-driven endeavors, take a peek at my comprehensive [Data Analyst Portfolio](https://ersan-kucukoglu.github.io/ersankucukoglu.github.io/). 
 
 My posts; 
-- [Text Analysis and Sentiment Analysis of Turkish Tweets on the Roma Community Using R](https://medium.com/@ersan.kucukoglu41/text-analysis-and-sentiment-analysis-of-turkish-tweets-on-the-roma-community-using-r-9aef6f27189a)
 - [Sentiment Analysis of Tweets on COVID-19 Vaccination: Using AWS Comprehended in R](https://medium.com/@ersan.kucukoglu41/sentiment-analysis-of-tweets-on-covid-19-vaccination-using-aws-comprehended-in-r-b708fcbda4e6) on my [medium](https://medium.com/@ersan.kucukoglu41) profile and 
 - [Spotify Songs Analysis](https://rpubs.com/ersan_kucukoglu/spotify_songs) on my [RPubs](https://rpubs.com/ersan_kucukoglu) profile.
 ### Contact
